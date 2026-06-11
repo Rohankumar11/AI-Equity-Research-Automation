@@ -39,4 +39,4 @@ ROE: 10.56%
 ROCE: 5.05%
 Debt/Equity: 0.90
 
-AI-generated investment research note included.
+
